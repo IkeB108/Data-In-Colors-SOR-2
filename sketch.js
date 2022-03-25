@@ -42,7 +42,7 @@ function preload() {
   // coco_font = loadFont("coco_gothic_light.ttf")
   dosis_font = loadFont("dosis_light.ttf")
   choseSpecialImage = false;
-  setupSpecialImage("miners_encoded.png")
+  setupSpecialImage("miners_encoded_louder.png")
   
 }
 
